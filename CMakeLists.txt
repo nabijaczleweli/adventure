@@ -9,4 +9,4 @@ add_subdirectory (${CMAKE_CURRENT_SOURCE_DIR}/external/yaml-cpp)
 include_directories (${CMAKE_CURRENT_SOURCE_DIR}/external/yaml-cpp/include)
 target_link_libraries (adventure YAML_CPP)
 
-include_directories(${CMAKE_CURRENT_SOURCE_DIR}/external/rlutil/rlutil.h)
+include_directories(${CMAKE_CURRENT_SOURCE_DIR}/external/rlutil)
