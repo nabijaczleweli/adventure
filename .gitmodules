@@ -1,6 +1,3 @@
 [submodule "external/rlutil"]
 	path = external/rlutil
 	url = https://github.com/tapio/rlutil
-[submodule "external/yaml-cpp"]
-	path = external/yaml-cpp
-	url = https://github.com/blair1618/yaml-cpp/tree/no-boost
