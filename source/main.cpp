@@ -17,7 +17,7 @@ int main()
     {
         switch(stream_get<char>(std::cin))
         {
-            case 'y': std::cout << "Too bad; you aren't getting one. This game's no where near finished. Not even by Ubisoft's standards" << std::endl;
+            case 'y': std::cout << "Too bad; you aren't getting one. This game's no where near finished. Not even by Ubisoft's standards." << std::endl;
                       break;
             case 'n': std::cout << "Oh, alright." << std::endl;
                       break;
