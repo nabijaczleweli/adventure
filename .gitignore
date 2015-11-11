@@ -10,3 +10,4 @@
 !LICENSE
 !CMakeLists.txt
 !.travis.yml
+!.clang-format
