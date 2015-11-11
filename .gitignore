@@ -1,0 +1,11 @@
+*
+!.git*
+!assets
+!assets/**
+!external
+!external/*
+!source
+!source/**
+!README.md
+!LICENSE
+!CMakeLists.txt
