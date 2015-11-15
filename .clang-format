@@ -6,17 +6,17 @@ AlignEscapedNewlinesLeft                       : true
 AlignConsecutiveAssignments                    : true
 AllowShortFunctionsOnASingleLine               : Empty
 AlwaysBreakTemplateDeclarations                : true
-BreakBeforeBraces                              : Allman
 ColumnLimit                                    : 160
 ConstructorInitializerIndentWidth              : 6
 IndentCaseLabels                               : true
-MaxEmptyLinesToKeep                            : 1
+MaxEmptyLinesToKeep                            : 2
 KeepEmptyLinesAtTheStartOfBlocks               : false
 NamespaceIndentation                           : All
 PointerAlignment                               : Middle
 SpacesBeforeTrailingComments                   : 2
-IndentWidth                                    : 4
-UseTab                                         : Never
-SpaceBeforeParens                              : ControlStatements
+IndentWidth                                    : 2
+TabWidth                                       : 2
+UseTab                                         : ForIndentation
+SpaceBeforeParens                              : Never
 ...
 
